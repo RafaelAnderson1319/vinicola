@@ -9,3 +9,7 @@
 
 @media(min-width:701px){.bottle-stage{position:absolute;left:0;right:0;margin-bottom:0}}
 
+
+@media(max-width:700px){.notes{padding-top:530px}.story-bottle{will-change:transform}}
+@media(max-width:700px) and (prefers-reduced-motion:reduce){.notes{padding-top:65px}}
+
